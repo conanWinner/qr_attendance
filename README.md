@@ -10,7 +10,7 @@ Sinh viên Khoa Công nghệ Thông tin - Chuyên ngành Công nghệ thông tin
 
 ## 🌐 Demo Live
 
-**🚀 [Xem Demo Trực Tuyến](https://qr-attendance-b443kx0ix-conanwinners-projects.vercel.app/)**
+**🚀 [Xem Demo Trực Tuyến](https://qr-attendance-nu-hazel.vercel.app/)**
 
 Ứng dụng đã được deploy trên Vercel và sẵn sàng sử dụng!
 
